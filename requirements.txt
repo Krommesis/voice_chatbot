@@ -1,0 +1,10 @@
+git+https://github.com/openai/whisper.git
+# rhvoice-wrapper-bin
+rhvoice-wrapper
+torch==1.10.2
+transformers
+simpleaudio
+sounddevice
+webrtcvad
+omegaconf
+nltk
